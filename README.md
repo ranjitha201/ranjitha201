@@ -21,14 +21,6 @@ My focus is on writing clean, maintainable code and continuously learning the la
 
 ## 🛠️ Skills & Tools
 
-| Category | Technologies |
-|-----------|---------------|
-| 💻 **Frontend** | HTML • CSS • JavaScript • React |
-| ⚙️ **Backend** | Java • Spring Boot • REST APIs |
-| 🧱 **Database** | MySQL
-| ☁️ **Cloud & DevOps** | AWS • Docker • Jenkins • Linux • Git • Maven |
-| 🔒 **Security / Tools** | Postman • VS Code • Eclipse |
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,aws,docker,jenkins,git,linux&perline=7" />
 </p>
