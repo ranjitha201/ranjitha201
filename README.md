@@ -1,7 +1,5 @@
 <!-- HEADER -->
-<p align="center">
-  <img src="https://github.com/ranjitha201/ranjitha201/blob/main/banner.png" alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="center">👋 Hi, I'm Ranjitha S</h1>
 <h3 align="center">💻 Java Full Stack Engineer | DevOps Enthusiast</h3>
@@ -27,18 +25,13 @@ My focus is on writing clean, maintainable code and continuously learning the la
 |-----------|---------------|
 | 💻 **Frontend** | HTML • CSS • JavaScript • React |
 | ⚙️ **Backend** | Java • Spring Boot • REST APIs |
-| 🧱 **Database** | MySQL • MongoDB |
+| 🧱 **Database** | MySQL
 | ☁️ **Cloud & DevOps** | AWS • Docker • Jenkins • Linux • Git • Maven |
-| 🔒 **Security / Tools** | Postman • SonarQube • VS Code • Eclipse |
+| 🔒 **Security / Tools** | Postman • VS Code • Eclipse |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,aws,docker,jenkins,git,linux&perline=7" />
 </p>
-
----
-
-
-
 
 ---
 
