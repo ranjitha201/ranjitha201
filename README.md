@@ -1,4 +1,4 @@
-## Hi there 👋
+## HI I'M Ranjitha.S 👋
 
 <!--
 **ranjitha201/ranjitha201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
