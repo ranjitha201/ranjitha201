@@ -2,7 +2,7 @@
 
 
 <h1 align="center">👋 Hi, I'm Ranjitha S</h1>
-<h3 align="center">💻 Java Full Stack Engineer | DevOps Enthusiast</h3>
+<h3 align="center">💻 Java Full Stack Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Engineer;Spring+Boot+%7C+React+%7C+MySQL;AWS+%7C+Docker+%7C+Jenkins+%7C+Linux;Passionate+about+Cloud+and+Automation" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 ## 🌟 About Me
 
 I am a **Java Full Stack Engineer** with a passion for building scalable, secure, and user-friendly web applications.  
-I have experience working on backend systems using **Spring Boot**, frontend development with **React**, and deployment automation using **Docker, Jenkins, and AWS**.
+I have experience working on backend systems using **Spring Boot**, frontend development with **JS AND React**, and deployment automation using **AWS**.
 
 My focus is on writing clean, maintainable code and continuously learning the latest technologies in cloud and DevOps.
 
@@ -22,7 +22,7 @@ My focus is on writing clean, maintainable code and continuously learning the la
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,aws,docker,jenkins,git,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,aws=7" />
 </p>
 
 ---
